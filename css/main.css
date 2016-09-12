@@ -1,0 +1,117 @@
+/* Inserte su codigo aqui */
+.header {
+	background-color:#F8C806;
+	height:100%;
+	-webkit-box-shadow: 0 8px 6px -6px black;
+     -moz-box-shadow: 0 8px 6px -6px black;
+          box-shadow: 0 8px 6px -6px black;
+}
+.btn {
+	background-color:black;
+	border-radius:5%;
+	width:25%;
+	height:5%;
+	margin-top:3%;
+	margin-left:20%;
+	 -webkit-box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+       -moz-box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+            box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+}
+.sumate {
+	color:white;
+	font-size:15px;
+	margin-left:15%;
+}
+.indice {
+	margin-top:3%;
+	margin-left:45%;
+
+}
+.menu {
+	color:white;
+	text-decoration:none;
+}
+.nombre{
+	color:white;
+	font-size:470%;
+	font-family: 'Rock Salt', cursive;
+
+}
+.portafolio {
+	color:black;
+	font-size:180%;
+	font-family: 'Josefin Slab', serif;
+
+}
+.laboratoria {
+	text-align:center;
+	margin-top:10%;
+}
+.subtle {
+	color:black;
+	font-family: 'Josefin Slab', serif;
+	font-size:200%;
+	text-align:center;
+}
+.parrafo {
+	text-align:left;
+	padding:4%;
+	font-size:100%;
+}
+.boot {
+	background:url(../img/bootstrap.png);
+	width:300px;
+	height:300px;
+	background-size:100%;
+	background-repeat:no-repeat;
+	margin-left:15%;
+	margin-top:5%;
+	
+}
+.github {
+	background:url(../img/github.jpg);
+	width:300px;
+	height:300px;
+	background-size:100%;
+	background-repeat:no-repeat;
+	margin-left:15%;
+	margin-top:5%;
+
+}
+.responsive {
+	background:url(../img/responsive.jpg);
+	width:300px;
+	height:300px;
+	background-size:100%;
+	background-repeat:no-repeat;
+	margin-left:15%;
+	margin-top:5%;
+	
+}
+.jquery {
+	background:url(../img/jquery.png);
+	width:300px;
+	height:300px;
+	background-size:100%;
+	background-repeat:no-repeat;
+	margin-left:15%;
+	margin-top:5%;
+	position:relative;
+
+}
+.marco {
+	background-color:#C7C6C6;
+	height:100%;
+	margin-top:50%;
+	 -webkit-box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+       -moz-box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+            box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+}
+.footer {
+	height:15%;
+	background-color:black;
+	text-align:center;
+}
+.text-footer {
+	color:#F8C806;;
+}
